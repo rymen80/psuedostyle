@@ -1,0 +1,14 @@
+.red {
+    width: 250px;
+    height: 250px;
+    background-color: red
+}
+
+
+a :hover {
+    color: blue;
+}
+
+.beenThere: :visited {
+    color: green;
+}
